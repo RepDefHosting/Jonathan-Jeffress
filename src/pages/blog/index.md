@@ -3,7 +3,9 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: Blog Listing Page of Chandler Villacruz, Senior Marketing Manager
+metaDescription: A partner with Kaiser PLLC law in Washington, D.C., Jonathan
+  Jeffress focuses on the defense of individuals accused of white-collar crimes
+  such as fraud, bribery, and public corruption
 published: true
 schemaType: WebPage
 header: Blog
@@ -13,5 +15,5 @@ featuredImage:
   caption: null
 profileButton:
   link: /profile
-  label: View Profile
+  label: About
 ---
