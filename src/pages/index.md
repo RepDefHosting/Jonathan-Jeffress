@@ -12,7 +12,7 @@ learnMoreButton:
 subheader: Senior Marketing Executive
 pageSlug: /
 featuredImage:
-  src: /img/lawyer-hero-image.png
+  src: /img/lawyer-hero-image-2.png
   alt: Jonathan Jeffress
   caption: null
 header: Chandler Villacruz
