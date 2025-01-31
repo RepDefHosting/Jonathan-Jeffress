@@ -10,7 +10,7 @@ published: true
 schemaType: ProfilePage
 header: Jonathan Jeffress
 featuredImage:
-  src: /img/untitled-design-7-.png
+  src: /img/untitled-design-8-.png
   alt: Jonathan Jeffress
   caption: null
 connectWithMe: Connect with me
