@@ -12,7 +12,7 @@ learnMoreButton:
 subheader: Senior Marketing Executive
 pageSlug: /
 featuredImage:
-  src: /img/pic-executive-main-banner-01.webp
+  src: /img/untitled-design-7-.png
   alt: Jonathan Jeffress
   caption: null
 header: Chandler Villacruz
