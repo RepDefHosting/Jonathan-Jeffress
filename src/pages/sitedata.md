@@ -2,7 +2,7 @@
 templateKey: site-data
 published: true
 name: Jonathan Jeffress
-jobTitle: Trial Lawyer
+jobTitle: Defense Attorney
 location: Washington, DC, USA
 profileImage:
   src: /img/jonathan-jeffress-is-an-experienced-trial-lawyer-.jpg
