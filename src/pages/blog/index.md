@@ -14,6 +14,6 @@ featuredImage:
   alt: Blog
   caption: null
 profileButton:
-  link: /profile
-  label: About
+  link: /
+  label: Home
 ---
