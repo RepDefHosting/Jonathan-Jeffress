@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Chandler Villacruz
-jobTitle: Senior Marketing Executive
-location: San Francisco, California, USA
+name: Jonathan Jeffress
+jobTitle: Trial Lawyer
+location: Washington, DC, USA
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Chandler Villacruz
-siteUrl: https://mpdsbuild.netlify.app/
+  src: /img/jonathan-jeffress-is-an-experienced-trial-lawyer-.jpg
+  alt: Jonathan Jeffress
+siteUrl: https://www.aboutjonathanjeffress.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/jonathanjeffress
     label: Visit
     show: true
   pinterest:
