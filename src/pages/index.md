@@ -24,7 +24,7 @@ profileButton:
   label: About
 blogButton:
   link: /blog
-  label: Visit My Blog
+  label: Latest Blog Post
 shortBiography: Since joining the web-based restaurant review company in its
   startup phase, Chandler Villacruz has spearheaded market research activities
   that have allowed the firm to build effective advertising campaigns and
